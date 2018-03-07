@@ -28,7 +28,7 @@ public class Index{
         FirstSwitch.main(null);
         break;
       case 3:
-        System.out.println("Exiting....");
+        System.out.println("Exiting...");
         break;
       default:
         System.out.println("Invalid choice");
